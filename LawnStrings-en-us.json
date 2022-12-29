@@ -182,7 +182,7 @@
 					"AILMINT": "蒜瓣",
 					"AILMINT_DESCRIPTION": "{KEYWORD}{STAT}特点：蒜瓣只有2个形态\r\n\r\n{FLAVOR}\"Garlic is formed from multiple of us, but he actually doesn't know about it! Every time we try to acknowledge him, he splits into another 8 of us!\"",
 					"AILMINT_DESCRIPTION_HEADER": "Garlimites divert zombies that ate them into other lanes. They have very low health, so use them as instants.",
-					"AILMINT_TOOLTIP": "Diverts zombies into other lanes",
+					"AILMINT_TOOLTIP": "把僵尸赶到别的行",
 					"AKEE": "阿开木木",
 					"AKEE_DESCRIPTION": "{KEYWORD}特点: {STAT}子弹每次弹射都将衰减5点伤害\r\n\r\n{FLAVOR}Autonomous Katapulting Ejectomatic Emitter is actively looking for a different acronym for A.K.E.E. because let's face it, \"Katapulting\" is just not working.",
 					"AKEE_DESCRIPTION_HEADER": "阿开木木向僵尸发射可以减速的弹射子弹.",
